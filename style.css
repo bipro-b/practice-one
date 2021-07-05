@@ -1,5 +1,7 @@
 .header-section{
-    background-image: url("img/bg-1.png");
+    background-image: url("img/pic-6.png");
+    background-size: contain;
+   background-position: center;
     background-repeat: no-repeat;
     margin: 0;
 }
