@@ -1,5 +1,5 @@
 .header-section{
-    background-image: url(../img/bg-1.png);
+    background-image: url("img/bg-1.png");
     background-repeat: no-repeat;
     margin: 0;
 }
@@ -43,12 +43,12 @@ padding: 5%;
 }
 
 .middle-section{
-    background-image: url(../img/bg-3.png);
+    background-image: url("img/bg-3.png");
     background-repeat: no-repeat;
     background-position: right;
 }
 .achievement-sec{
-    background-image: url(../img/bg-2.png);
+    background-image: url("img/bg-2.png");
     background-repeat: no-repeat;
     position: left;
     margin:0;
